@@ -1,4 +1,4 @@
-const key="43b3c088d21bf3ad6487572348341b9e";
+const key={"give your own api key here";
 
 
 
